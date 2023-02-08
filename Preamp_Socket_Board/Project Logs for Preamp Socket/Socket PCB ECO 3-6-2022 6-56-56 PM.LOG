@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=U1 Old DesignItemId=CMP-014-00002-9 New DesignItemId=CMP-014-00002-10
+Change Component Footprint: Designator=U1 Old Footprint=WMA-Footprint-1 New Footprint=WMA-Footprint-1
+Change Managed Component Library Link : Designator=U1 Old VaultGUID=FA9116E0-26EB-4EAA-A534-073797033667 New VaultGUID=FA9116E0-26EB-4EAA-A534-073797033667 Old ItemGUID=6771f2fb-9ba4-4ebf-a7ae-9a837bdd4d13 New ItemGUID=6771f2fb-9ba4-4ebf-a7ae-9a837bdd4d13 Old RevisionGUID=d3fb33c8-923e-479c-bd42-3179cc4b43dc New RevisionGUID=266fe3d9-ec6f-4de0-b8e5-540950a63490
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=U1-4
+Added Net: Name=NetJ4_1

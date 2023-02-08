@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: D:\OneDrive - purdue.edu\Projects\BrukerPreAmp\Preamp Socket\Socket.PcbDoc
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=1.5 Ohm Width|Scope=Board|Minimum=21.05
+RuleKind=Width|RuleName=50 Ohm Width|Scope=Board|Minimum=21.05
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

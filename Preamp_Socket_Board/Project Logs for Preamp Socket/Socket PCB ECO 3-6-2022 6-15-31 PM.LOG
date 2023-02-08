@@ -1,0 +1,2 @@
+Change Room Name: Old Name=Sheet 1 New Name=Sheet1
+Change Room Scope: Old Scope=False New Scope=InComponentClass('Sheet1')

@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=J1 Old Footprint=FP-87224-3-MFG New Footprint=Preci-dip_PinHeader_1x03_rect
+Change Component Footprint: Designator=J3 Old Footprint=FP-87224-3-MFG New Footprint=Preci-dip_PinHeader_1x03_rect
+Change Component Footprint: Designator=J2 Old Footprint=FP-TSW-101-07-F-S-MFG New Footprint=Preci-dip_PinHeader_1x02_rect
+Change Component Comment: Designator=J1 Old Comment=87224-3 New Comment=In
+Change Component Comment: Designator=J3 Old Comment=87224-3 New Comment=Out
+Change Component Comment: Designator=J2 Old Comment=TSW-101-07-F-S New Comment=VCC
+Change Component Comment: Designator=U1 Old Comment=WMA New Comment=Comment

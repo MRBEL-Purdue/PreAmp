@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Socket.GBR   3/14/2022  4:02:05 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                F.Cu                                    
+.gbr                B.Cu                                    
+.gbr                Bottom Pad Master                       
+.gbr                Top Pad Master                          
+.gbr                B.SilkS                                 
+.gbr                B.Mask                                  
+.gbr                F.SilkS                                 
+.gbr                F.Paste                                 
+.gbr                F.Mask                                  
+.gbr                Edge.Cuts                               
+.gbr                Top 3D Body                             
+.gbr                Bottom Component Center                 
+.gbr                Bottom Courtyard                        
+.gbr                Bottom Assembly                         
+.gbr                Top Assembly                            
+.gbr                3D Objects                              
+.gbr                Top Component Center                    
+.gbr                Bottom 3D Body                          
+.gbr                Top Courtyard                           
+.gbr                Profile                                 
+------------------------------------------------------------------------------------------

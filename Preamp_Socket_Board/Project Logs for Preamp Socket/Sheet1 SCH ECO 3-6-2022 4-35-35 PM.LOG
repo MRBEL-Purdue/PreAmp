@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=S2 Old Footprint=FP-S0971-46R-MFG New Footprint=S0971-46R-shield_clip
+Change Component Footprint: Designator=S4 Old Footprint=FP-S0971-46R-MFG New Footprint=S0971-46R-shield_clip
+Change Component Comment: Designator=S2 Old Comment=S0971-46R New Comment=shield_clip
+Change Component Comment: Designator=S4 Old Comment=S0971-46R New Comment=shield_clip
